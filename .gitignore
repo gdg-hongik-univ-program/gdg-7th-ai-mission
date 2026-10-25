@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*_execution.ipynb
+
+# 실습 데이터와 생성 결과물
+data/
+artifacts/
+
+# 로컬 환경 변수
+.env
+.env.*
+!.env.example
+
+# 운영체제 임시 파일
+.DS_Store
+Thumbs.db
