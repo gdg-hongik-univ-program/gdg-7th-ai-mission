@@ -1,7 +1,7 @@
 [project]
 name = "gdg-7th-ai-mission"
 version = "0.1.0"
-description = "상품 리뷰를 활용하는 AI 미션코스의 로컬 교안 초안"
+description = "상품 리뷰를 활용하는 AI 미션코스의 로컬 문서 초안"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "numpy==2.5.3",
