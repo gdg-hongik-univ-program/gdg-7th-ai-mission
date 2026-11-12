@@ -11,6 +11,8 @@ dependencies = [
     "ipykernel==7.3.0",
     "notebook==7.6.3",
     "pandas>=3.1.0",
+    "transformers>=5.22.2",
+    "torch>=2.15.0",
 ]
 
 [tool.uv]
